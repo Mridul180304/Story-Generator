@@ -110,8 +110,8 @@ Story-Generator/
 │── README.md  # Project documentation
 ```
 
-## Contributing
-Feel free to submit issues and pull requests to improve the project.
+## Contact
+For questions or suggestions, feel free to reach out at mridulchawla20@example.com.
 
 ## License
 This project is licensed under the MIT License.
